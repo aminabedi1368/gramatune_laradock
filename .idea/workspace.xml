@@ -114,11 +114,6 @@
               <item name="gramatune_laradock" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="laradock" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="gramatune_laradock" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gramatune_laradock" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wordpress" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -161,12 +156,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532707241278</updated>
-      <workItem from="1532707242384" duration="3416000" />
+      <workItem from="1532707242384" duration="3472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3416000" />
+    <option name="totallyTimeSpent" value="3472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="803" extended-state="0" />
